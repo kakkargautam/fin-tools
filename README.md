@@ -1,4 +1,6 @@
 # fintools
-basic tools for finance :
-- Calculation of Money-Weihted Rate of Return
-- Calculation of Time-Weihted Rate of Return
+tools for finance :
+- Money-Weihted Rate of Return
+- Time-Weihted Rate of Return
+- Rolling Return.
+- Drawdown
