@@ -1,0 +1,4 @@
+Currency_A,Currency_B,weight
+USD,EUR,0.2
+EUR,GBP,0.1
+GBP,USD,-0.35
