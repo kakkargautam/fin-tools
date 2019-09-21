@@ -4,3 +4,4 @@ tools for finance :
 - Time-Weighted Rate of Return
 - Rolling Return.
 - Drawdowns Analysis
+- Currency Arbitrage
