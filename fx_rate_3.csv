@@ -1,4 +1,6 @@
 Currency_A,Currency_B,weight
 USD,EUR,0.2
-EUR,GBP,0.1
-GBP,USD,-0.35
+EUR,GBP,0.3
+GBP,USD,20
+GBP,INR,3
+INR,USD,6
